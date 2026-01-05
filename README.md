@@ -58,6 +58,32 @@ This repository contains a collection of basic Dart programming examples that de
     - Combining continue and break statements
     - Complex loop control
 
+14. **`11.list.dart`** - Lists and collections
+    - Creating and initializing lists
+    - Iterating through list elements using for-in loops
+
+15. **`11.list1.dart`** - List operations
+    - Adding elements to lists
+    - Modifying and iterating through dynamic lists
+
+16. **`12.map.dart`** - Maps and key-value pairs
+    - Creating and initializing maps
+    - Adding and updating key-value pairs
+    - Iterating through map entries
+
+17. **`13.function.dart`** - Function definitions
+    - Creating functions with parameters
+    - Return values and conditional logic in functions
+
+18. **`13.function1.dart`** - Function usage
+    - Defining and calling functions
+    - Using variables as function arguments
+
+19. **`14.class.dart`** - Object-oriented programming
+    - Basic class definition
+    - Constructor syntax
+    - Properties and initialization
+
 ## How to Run
 
 To run any of these examples, you need to have the Dart SDK installed on your system. Then execute:
@@ -78,11 +104,14 @@ dart 1.hello.dart
 ## Learning Path
 
 These examples are ordered to provide a progressive learning experience:
-1. Start with basic output (`1.hello.dart`)
+1. Start with basic output and syntax (`1.hello.dart`)
 2. Learn about variables and operations (`2.add.dart`)
 3. Understand decision making (`3.decision.dart`, `4.logic.dart`)
 4. Explore different control structures (`5.switch.dart`, `6.loop.dart`, `7.while.dart`, `8do-while.dart`)
 5. Master loop control (`9.break.dart`, `10.continue.dart`, `10.continue1.dart`)
+6. Work with collections (`11.list.dart`, `11.list1.dart`, `12.map.dart`)
+7. Create and use functions (`13.function.dart`, `13.function1.dart`)
+8. Learn object-oriented programming (`14.class.dart`)
 
 ## About Dart
 
